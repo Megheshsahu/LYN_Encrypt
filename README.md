@@ -21,9 +21,7 @@ python lyn_encryption.py
 For a full explanation of the algorithm design and inner workings, please refer to the accompanying PDF: `LYN_Encryption_Algorithm_Details.pdf`.
 ---
 
-###  Developed by
 
-**Megheshsahu**
 
 ## License
 This project is licensed under a Custom License - Attribution-NonCommercial.
