@@ -29,4 +29,4 @@ For a full explanation of the algorithm design and inner workings, please refer 
 This project is licensed under a Custom License - Attribution-NonCommercial.
 You may use, modify, and share the project with proper credit, but you may not earn money from it without permission.
 Contact megheshkumarsahu@gmail.com for commercial licensing.
-See the LICENSE.txt file for full terms.
+See the [LICENSE](LICENSE.txt) file for full terms.
