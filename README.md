@@ -3,7 +3,7 @@
 **LYN** (Layered Yet Nonlinear) is an encryption algorithm that enhances traditional block cipher 
 design with dynamic substitution boxes and key-driven round control for stronger, more adaptable encryption.
 
-## 🔐 Features
+##  Features
 
 * 🔃 Dynamic substitution box (S-Box) generated from the encryption key
 * 🔁 Variable number of rounds derived from the key hash
@@ -11,7 +11,7 @@ design with dynamic substitution boxes and key-driven round control for stronger
 * ✅ SHA-256 checksum for data integrity verification
 * 📦 PKCS#7 padding for proper block alignment
 
-## 🚀 Usage
+##  Usage
 
 Run the tool:
 
@@ -21,7 +21,7 @@ python lyn_encryption.py
 For a full explanation of the algorithm design and inner workings, please refer to the accompanying PDF: `LYN_Encryption_Algorithm_Details.pdf`.
 ---
 
-### 👨‍💻 Developed by
+###  Developed by
 
 **Megheshsahu**
 
