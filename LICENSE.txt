@@ -1,0 +1,28 @@
+Custom License - Attribution-NonCommercial (v1.0)
+
+Copyright (c) 2025 Megheshsahu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this project and associated files (the "Project"), to use, copy, modify,
+merge, publish, and distribute the Project, subject to the following conditions:
+
+1. **Attribution**:
+   You must give clear and visible credit to the original author: **Megheshsahu**.
+   This includes:
+   - Mention in README, about section, or documentation
+   - Visible credit if used in a public product
+
+2. **Non-Commercial Use Only**:
+   This Project may **not** be used for **commercial purposes**, including but not limited to:
+   - Selling the software or its derivatives
+   - Using it in paid services
+   - Monetized platforms (e.g., with ads or subscriptions)
+
+3. **Commercial Use by Permission**:
+   If you wish to use this Project for commercial purposes, you must obtain **explicit written permission** from the owner:
+   - Contact: megheshkumarsahu@gmail.com
+
+4. **No Warranty**:
+   This Project is provided "as is", without warranty of any kind.
+
+By using this Project, you agree to these terms.
