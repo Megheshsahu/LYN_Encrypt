@@ -5,11 +5,11 @@ design with dynamic substitution boxes and key-driven round control for stronger
 
 ##  Features
 
-* 🔃 Dynamic substitution box (S-Box) generated from the encryption key
-* 🔁 Variable number of rounds derived from the key hash
-* 🔗 CBC (Cipher Block Chaining) mode with random IV
-* ✅ SHA-256 checksum for data integrity verification
-* 📦 PKCS#7 padding for proper block alignment
+*  Dynamic substitution box (S-Box) generated from the encryption key
+*  Variable number of rounds derived from the key hash
+*  CBC (Cipher Block Chaining) mode with random IV
+*  SHA-256 checksum for data integrity verification
+*  PKCS#7 padding for proper block alignment
 
 ##  Usage
 
