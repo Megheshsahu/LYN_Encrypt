@@ -25,7 +25,7 @@ For a full explanation of the algorithm design and inner workings, please refer 
 
 **Megheshsahu**
 
-License
+## License
 This project is licensed under a Custom License - Attribution-NonCommercial.
 You may use, modify, and share the project with proper credit, but you may not earn money from it without permission.
 Contact megheshkumarsahu@gmail.com for commercial licensing.
