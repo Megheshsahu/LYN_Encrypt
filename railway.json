@@ -1,0 +1,7 @@
+{
+  "name": "lyn-encryption-api",
+  "description": "LYN Encryption API for Railway deployment",
+  "scripts": {
+    "start": "uvicorn api:app --host 0.0.0.0 --port 8000"
+  }
+}
